@@ -19,7 +19,9 @@ Lis_GAD.py and Lis_net.py contains the method in [previous work](http://www.publ
 
 ## Resource
 
-Dataset, relivent paper and our slide can be found on https://drive.google.com/drive/folders/1zXSLLmbTnJhLSYeSZ41N8ZNcGfH2VmLn?usp=sharing
+Dataset, related paper and our slide can be found on https://drive.google.com/drive/folders/1zXSLLmbTnJhLSYeSZ41N8ZNcGfH2VmLn?usp=sharing
+
+Technical Reports is on https://www.overleaf.com/read/nddvkswmdrjr
 
 ## TO DO
 Add ClusterGCN code
