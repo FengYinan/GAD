@@ -4,7 +4,9 @@
 ##Requeriment
 
 Pytorch
+
 Tensorflow (Tensorboard)
+
 [pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
 
 ##Code Structure
