@@ -13,6 +13,8 @@ Tensorflow (Tensorboard)
 
 main.py contains parameters needed by the use. It is a good start if you want to get yourself familiar with code. DGAD.py contains trainning and testing process. The 3D graph convolution is defined in d3_graph_conv.py and net.py contains the whole network class. trans_graph.py is used to transform the .csv dataset to .npz gaph format.
 
+The path to the input dataset can be changed in DGAD.py.
+
 Lis_GAD.py and Lis_net.py contains the method in [previous work](http://www.public.asu.edu/~jundongl/paper/SDM19_DOMINANT.pdf).
 
 ## Resource
