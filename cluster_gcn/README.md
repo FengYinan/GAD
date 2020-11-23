@@ -1,5 +1,5 @@
 # CloudAnomaly
-This repository contains the files for the Cloud Anomaly Detection project. The primary code for the project can be found in the DGAD folder and run with "python main.py". Code for replicating previous experiments is also included and can be used as follows: 
+This filefold contains the files for the cluster-gcn to deal with large graph: 
 
  - clustergcn.py: create_partition accepts an adjacency matrix and feature matrix and uses the partitioning method described in the ClusterGCN paper to create a subgraph and returns the corresponding adjacency and feature matrices. It also accepts two hyperparameters, p (how many partitions to create) and q (how many of those partitions to combine into a subgraph).
  - nstep_neighbor.py: adj_to_bias accepts an adjacency matrix and nhood parameter and returns the n-step neighbor version of the adjacency matrix.

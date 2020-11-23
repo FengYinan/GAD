@@ -24,6 +24,7 @@ Dataset, related paper and our slide can be found on https://drive.google.com/dr
 Technical Reports is on https://www.overleaf.com/read/nddvkswmdrjr
 
 ## TO DO
-Add ClusterGCN code
+Add code comments and clean code.
 
-Add code comments
+Improve detection result with effectives and efficience:
+better covolution operation, integrate cluster gcn, new anmolay measure (cluster)
